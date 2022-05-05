@@ -1,0 +1,43 @@
+header{
+    position: fixed;
+    text-align: center;
+    background: black;
+    color: pink;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.welcome{
+    position: relative;
+    top: 62px;
+}
+
+.question{
+    top: 62px;
+    position: relative;
+}
+
+li{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    background-color: grey;
+    bottom: 0;
+    height: 20px;
+    text-align: center;
+}
+
+footer p{
+    color: pink;
+    padding: 10px;
+}
+.answer{
+    display: inline-block;
+}

@@ -1,0 +1,33 @@
+h1, p{
+    color: rgb(215, 93, 114);
+}
+
+* {
+    border: 2px solid black;
+}
+
+.title {
+    color: aqua;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+a:hover{
+    background-color: pink;
+    color: black;
+    text-decoration: none;
+}
+
+#article-title{
+    font-family: cursive;
+}
+
+
+

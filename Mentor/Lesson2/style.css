@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    text-align: justify;
+    width: 400px;
+    position: absolute;
+      
+}
